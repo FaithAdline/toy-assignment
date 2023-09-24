@@ -1,0 +1,27 @@
+
+
+**Salary Calculator**
+This JavaScript program calculates an individual's net salary based on the provided basic salary and benefits, taking into account tax, NHIF deductions, and NSSF deductions.
+
+# Program Overview
+The "Salary Calculator" program uses hypothetical tax rates to determine the deductions and net salary. It calculates the gross salary, tax, NHIF deductions, NSSF deductions, and net salary for a given basic salary and benefits.
+
+
+```javascript
+guides
+```
+
+The program follows these steps to calculate the net salary:
+
+Define the hypothetical tax rates for tax, NHIF deductions, and NSSF deductions.
+Calculate the gross salary by adding the basic salary and benefits.
+Calculate tax based on the tax rate and gross salary.
+Calculate NHIF deductions based on the NHIF rate and gross salary.
+Calculate NSSF deductions based on the NSSF rate and gross salary.
+Calculate the net salary by subtracting the total deductions from the gross salary.
+Usage
+To calculate the net salary for an individual:
+
+Open the JavaScript file where the calculateNetSalary function is defined.
+
+Call the calculateNetSalary function, passing the basic salary and benefits as arguments.
