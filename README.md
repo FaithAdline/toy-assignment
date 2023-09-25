@@ -45,7 +45,9 @@ NB: Use KRA, NHIF, and NSSF values provided in the link below.
 
 Links to an external site.-  Links to an external site.Links to an external site.
 
-- www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.# toy-assignment
+- www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
+-
+- # toy-assignment
 The repository contains some projects:
 -The Students Grade Calculator
 -The Speed Detector
